@@ -1,0 +1,31 @@
+﻿  Sortowanie struktur.cpp
+c:\users\hunteerq\documents\projects\sortowanie struktur\sortowanie struktur\sortowanie struktur.cpp(28): warning C4133: "=": niezgodne typy - od "Czlowiek *" do "Czlowiek *"
+c:\users\hunteerq\documents\projects\sortowanie struktur\sortowanie struktur\sortowanie struktur.cpp(31): warning C4133: "=": niezgodne typy - od "Czlowiek *" do "Czlowiek *"
+c:\users\hunteerq\documents\projects\sortowanie struktur\sortowanie struktur\sortowanie struktur.cpp(32): warning C4133: "=": niezgodne typy - od "Czlowiek *" do "Czlowiek *"
+c:\users\hunteerq\documents\projects\sortowanie struktur\sortowanie struktur\sortowanie struktur.cpp(33): warning C4133: "=": niezgodne typy - od "Czlowiek *" do "Czlowiek *"
+c:\users\hunteerq\documents\projects\sortowanie struktur\sortowanie struktur\sortowanie struktur.cpp(41): warning C4133: "=": niezgodne typy - od "Czlowiek *" do "Czlowiek *"
+c:\users\hunteerq\documents\projects\sortowanie struktur\sortowanie struktur\sortowanie struktur.cpp(42): warning C4133: "=": niezgodne typy - od "Czlowiek *" do "Czlowiek *"
+c:\users\hunteerq\documents\projects\sortowanie struktur\sortowanie struktur\sortowanie struktur.cpp(43): warning C4133: "=": niezgodne typy - od "Czlowiek *" do "Czlowiek *"
+c:\users\hunteerq\documents\projects\sortowanie struktur\sortowanie struktur\sortowanie struktur.cpp(44): warning C4133: "=": niezgodne typy - od "Czlowiek *" do "Czlowiek *"
+c:\users\hunteerq\documents\projects\sortowanie struktur\sortowanie struktur\sortowanie struktur.cpp(45): warning C4133: "=": niezgodne typy - od "Czlowiek *" do "Czlowiek *"
+c:\users\hunteerq\documents\projects\sortowanie struktur\sortowanie struktur\sortowanie struktur.cpp(51): warning C4133: "=": niezgodne typy - od "Czlowiek *" do "Czlowiek *"
+c:\users\hunteerq\documents\projects\sortowanie struktur\sortowanie struktur\sortowanie struktur.cpp(52): warning C4133: "=": niezgodne typy - od "Czlowiek *" do "Czlowiek *"
+c:\users\hunteerq\documents\projects\sortowanie struktur\sortowanie struktur\sortowanie struktur.cpp(53): warning C4133: "=": niezgodne typy - od "Czlowiek *" do "Czlowiek *"
+c:\users\hunteerq\documents\projects\sortowanie struktur\sortowanie struktur\sortowanie struktur.cpp(54): warning C4133: "=": niezgodne typy - od "Czlowiek *" do "Czlowiek *"
+c:\users\hunteerq\documents\projects\sortowanie struktur\sortowanie struktur\sortowanie struktur.cpp(55): warning C4133: "=": niezgodne typy - od "Czlowiek *" do "Czlowiek *"
+c:\users\hunteerq\documents\projects\sortowanie struktur\sortowanie struktur\sortowanie struktur.cpp(61): warning C4133: "=": niezgodne typy - od "Czlowiek *" do "Czlowiek *"
+c:\users\hunteerq\documents\projects\sortowanie struktur\sortowanie struktur\sortowanie struktur.cpp(62): warning C4133: "=": niezgodne typy - od "Czlowiek *" do "Czlowiek *"
+c:\users\hunteerq\documents\projects\sortowanie struktur\sortowanie struktur\sortowanie struktur.cpp(63): warning C4133: "=": niezgodne typy - od "Czlowiek *" do "Czlowiek *"
+c:\users\hunteerq\documents\projects\sortowanie struktur\sortowanie struktur\sortowanie struktur.cpp(64): warning C4133: "=": niezgodne typy - od "Czlowiek *" do "Czlowiek *"
+c:\users\hunteerq\documents\projects\sortowanie struktur\sortowanie struktur\sortowanie struktur.cpp(65): warning C4133: "=": niezgodne typy - od "Czlowiek *" do "Czlowiek *"
+c:\users\hunteerq\documents\projects\sortowanie struktur\sortowanie struktur\sortowanie struktur.cpp(66): warning C4133: "=": niezgodne typy - od "Czlowiek *" do "Czlowiek *"
+c:\users\hunteerq\documents\projects\sortowanie struktur\sortowanie struktur\sortowanie struktur.cpp(79): warning C4133: "=": niezgodne typy - od "Czlowiek *" do "Czlowiek *"
+c:\users\hunteerq\documents\projects\sortowanie struktur\sortowanie struktur\sortowanie struktur.cpp(107): warning C4133: "=": niezgodne typy - od "Czlowiek *" do "Czlowiek *"
+c:\users\hunteerq\documents\projects\sortowanie struktur\sortowanie struktur\sortowanie struktur.cpp(108): warning C4133: "=": niezgodne typy - od "Czlowiek *" do "Czlowiek *"
+c:\users\hunteerq\documents\projects\sortowanie struktur\sortowanie struktur\sortowanie struktur.cpp(110): warning C4133: "funkcja": niezgodne typy - od "Czlowiek *" do "const char *"
+c:\users\hunteerq\documents\projects\sortowanie struktur\sortowanie struktur\sortowanie struktur.cpp(94): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: zobacz deklarację „scanf”
+c:\users\hunteerq\documents\projects\sortowanie struktur\sortowanie struktur\sortowanie struktur.cpp(103): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: zobacz deklarację „scanf”
+  Sortowanie struktur.vcxproj -> c:\users\hunteerq\documents\Projects\Sortowanie struktur\Debug\Sortowanie struktur.exe
+  Sortowanie struktur.vcxproj -> c:\users\hunteerq\documents\Projects\Sortowanie struktur\Debug\Sortowanie struktur.pdb (Partial PDB)
